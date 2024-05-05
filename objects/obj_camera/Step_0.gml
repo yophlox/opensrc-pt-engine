@@ -13,15 +13,16 @@ camera_set_view_pos(view_camera[0],targetx - 480 / zoom,targety - 270 / zoom)
 camera_set_view_size(view_camera[0], 960 / zoom, 540 / zoom)
 camera_set_view_angle(view_camera[0], angle)
 
-if keyboard_check(ord("P"))
-	zoom += 0.05;
-else if keyboard_check(ord("O"))
-	zoom -= 0.05;
-else if keyboard_check(ord("L"))
-	zoom = 1;
-if keyboard_check(ord("I"))
-	angle += 1;
-else if keyboard_check(ord("U"))
-	angle -= 1;
-else if keyboard_check(ord("K"))
-	angle = 0;
+//if keyboard_check(ord("P"))
+//	zoom += 0.05;
+//else if keyboard_check(ord("O"))
+//	zoom -= 0.05;
+//else if keyboard_check(ord("L"))
+//	zoom = 1;
+//if keyboard_check(ord("I"))
+//	angle += 1;
+//else if keyboard_check(ord("U"))
+//	angle -= 1;
+//else if keyboard_check(ord("K"))
+//	angle = 0;
+//  debug camera stuff
