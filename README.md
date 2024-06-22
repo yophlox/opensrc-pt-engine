@@ -1,3 +1,5 @@
+# note that the engine kinda sucks
+ok the engine sucks because gabergaming possibly made it in like a few days or whatever so its not my fault if it sucks
 # opensrc-pt-engine
 "open source code pt engine? in gamemaker? sign me up!"
 # what is this?
